@@ -1,5 +1,8 @@
 #Klib: a Generic Library in C
 
+##<a name="Fork motivation"></a>Fork motivation
+Include more tests, document more, experiment.
+
 ##<a name="overview"></a>Overview
 
 Klib is a standalone and lightweight C library distributed under [MIT/X11
